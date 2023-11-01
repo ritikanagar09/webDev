@@ -6,4 +6,6 @@ browser --> mera assitant h , jo bhi server bhej deat vo ye dikha deta h
 Backend--> how server is processing the request, 
 
 
-FrontEnd--> HTML, CSS, Javascript 
+FrontEnd--> HTML, CSS, Javascript --> client side scripting 
+Javascript--> helps in making the websites the dynamic 
+
