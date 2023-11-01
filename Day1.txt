@@ -1,0 +1,9 @@
+Client --> ask for the requests 
+server --> has some written code , gives response , sends bundle of images, and code
+browser --> mera assitant h , jo bhi server bhej deat vo ye dikha deta h
+        --> generates the websites dynamically using the code provided by server 
+
+Backend--> how server is processing the request, 
+
+
+FrontEnd--> HTML, CSS, Javascript 
