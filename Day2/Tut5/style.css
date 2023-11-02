@@ -1,0 +1,14 @@
+td, th {
+    border: 2px solid black;
+}
+thead {
+    background-color: green;
+}
+
+tbody {
+    background-color: hotpink;
+}
+
+tfoot{
+    background-color: antiquewhite;
+}

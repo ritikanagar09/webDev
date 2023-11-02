@@ -1,0 +1,1 @@
+alert("Aaatma trapt ho gyi meri")
